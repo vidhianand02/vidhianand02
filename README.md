@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vidhianand02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidhianand02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vidhi-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhi_anand" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vidhi-anand-739518246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhi_anand" height="30" width="40" /></a>
 <a href="https://codesandbox.com/vidhianand0211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vidhianand0211" height="30" width="40" /></a>
 <a href="https://kaggle.com/vidhianand02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vidhianand02" height="30" width="40" /></a>
 <a href="https://instagram.com/vidhi_0211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vidhi_0211" height="30" width="40" /></a>
